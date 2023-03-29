@@ -1,0 +1,17 @@
+<RCC>
+
+  <qresource prefix="/">
+
+  <file>fonts/SixCaps/SixCaps-Regular.ttf</file>
+
+  <file>images/lexa.png</file>
+  <file>images/dovguha.png</file>
+  <file>images/miha.png</file>
+  <file>images/sabir.png</file>
+  <file>images/valya.png</file>
+  <file>images/vnstrr.png</file>
+
+  </qresource>
+
+</RCC>
+
